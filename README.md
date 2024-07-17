@@ -41,8 +41,4 @@ Functions in Python are like magic spells that allow us to break our code into r
 
 You are warmly invited to contribute to this repository by adding your own enchanting Python code, fixing bugs, or improving existing examples. Let's collaborate and make this Python journey even more magical! ✨
 
-## License 📝
-
-This repository is licensed under the MIT License, which means you have the freedom to use, modify, and share the code. Python is all about spreading the magic and sharing knowledge!
-
 Now that you have the spellbook of Python basics with NumPy and Pandas, it's time to unleash your creativity and cast some Python spells! Happy coding! 🎩🔮
