@@ -5,7 +5,6 @@ class Emp:
         self.eid = eid
         self.name = name
         self.sal = sal
-        ####@@@@
     
     def display(self):
         print(f'EID:{self.eid} NAME:{self.name} SAL:{self.sal}')
