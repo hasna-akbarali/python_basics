@@ -9,8 +9,6 @@ class Emp:
     def display(self):
         print(f'EID:{self.eid} NAME:{self.name} SAL:{self.sal}')
 
-
-
 n = int(input('Enter the no. of Employees '))
 f = open('employee_details','w+b')
 
